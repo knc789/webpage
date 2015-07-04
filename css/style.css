@@ -171,10 +171,14 @@ Spacer
 #spacer1{	
 	background-image: url(../img/spacer/1.jpg);
     background-repeat:no-repeat;
+    background-position: center;
+    word-wrap: break-word;
 }
 #spacer2{	
 	background-image: url(../img/spacer/2.jpg);
     background-repeat:no-repeat;
+    background-position: center;
+    word-wrap: break-word;
 }
 
 
