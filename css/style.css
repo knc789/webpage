@@ -175,8 +175,8 @@ Spacer
 }
 #spacer2{	
 	background-image: url(../img/spacer/2.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
+    background-repeat:repeat;
+    background-size:contain;
 }
 
 
